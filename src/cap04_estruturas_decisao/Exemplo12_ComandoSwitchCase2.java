@@ -4,7 +4,7 @@ public class Exemplo12_ComandoSwitchCase2 {
 
     public static void main(String[] args) {
 
-        int numero = 1;
+        int numero = 821;
         System.out.println("definida variavel numero = "+numero);
 
         System.out.println("vai verificar se numero == 1, numero == 2, numero == 3 ou nenhum dos anteriores");
